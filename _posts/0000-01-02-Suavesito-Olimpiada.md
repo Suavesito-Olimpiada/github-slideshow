@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+
+ >  Even the queen will fall one day, and the kingdom with her
+
 Use the left arrow to go back!
